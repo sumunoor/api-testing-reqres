@@ -67,5 +67,5 @@ It covers positive and negative test scenarios across Users, Authentication, and
 ---
 
 ## 👩‍💻 Author
-**Sumaiya Noor Muna** — Junior SQA Engineer  
+**Sumaiya Noor Muna** —  SQA Engineer  
 📧 sumaiyanoormona35292@gmail.com | [GitHub](https://github.com/sumunoor)
