@@ -28,4 +28,4 @@ API Testing project using Postman on [reqres.in](https://reqres.in) — a free R
 - reqres.in API
 
 ## 👩‍💻 Author
-**Sumaiya Noor Muna** — Junior SQA Engineer
+**Sumaiya Noor Muna** —  SQA Engineer
